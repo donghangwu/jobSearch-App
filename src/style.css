@@ -1,0 +1,39 @@
+.bodyBack{
+    background-color: lightblue;
+}
+.type{
+    font-size: small;
+}
+.job_description{
+    padding: 15px;
+    font-size: small;
+    background-color: antiquewhite;
+}
+.card{
+    margin-bottom: 4px;
+}
+
+.container{
+    margin-top: 15px;
+}
+
+.container h1{
+    color: darkslateblue;
+    margin: 6px;
+}
+.apply{
+    color: forestgreen;
+}
+.filters{
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.description{
+    margin-left: 10%;
+    margin-right: 5px;
+}
+.location{
+    margin-left: 10%;
+    margin-right: 5px;
+}
